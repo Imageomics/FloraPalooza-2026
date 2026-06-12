@@ -4,7 +4,7 @@
 
 The Imageomics Institute is hosting a 3.5-day workshop offering a unique opportunity to develop proof-of-concepts demonstrating how the application of computer vision techniques can transform plant imagery analyses such as biodiversity assessment, plant-insect interaction studies, and trait data extraction. This event will bring together an interdisciplinary group around a shared interest of analyzing plant imagery (e.g., herbarium, in-situ, hyperspectral, remote sensing images) with AI/ML, including ML researchers, ecologists, biologists, software developers, and data engineers. Participants will work in small groups to collaboratively develop [FAIR](https://www.go-fair.org/fair-principles/) data products, tutorials, tools, workflows, and other products targeting the motivating challenge.
 
-The event will take place August 17-20 at Hyatt House Columbus/OSU near The Ohio State University in Columbus, OH, USA. To apply to participate, please fill out the [FloraPalooza 2026 Application for Participation](https://forms.gle/fVcrmbvYQDdWKMSSA) by the end of June 25, 2025. Funds to assist with travel expenses are available but limited, as is space. We expect to notify applicants about acceptance by July 2, 2025.
+The event will take place August 17-20 at Hyatt House Columbus/OSU near The Ohio State University in Columbus, OH, USA. To apply to participate, please fill out the [FloraPalooza 2026 Application for Participation](https://forms.gle/fVcrmbvYQDdWKMSSA) by the end of June 25, 2026. Funds to assist with travel expenses are available but limited, as is space. We expect to notify applicants about acceptance by July 2, 2026.
 
 ## Contents:
 
